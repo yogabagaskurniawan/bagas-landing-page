@@ -12,7 +12,7 @@ window.addEventListener('scroll', function() {
     //  (buat tes posisi dari atas ke bawah)
     // console.log(wScroll); 
 
-    if (wScroll < 732.3438110351562) {
+    if (wScroll < 539.1875) {
 
         // quates.classList.add('muncul');
 
