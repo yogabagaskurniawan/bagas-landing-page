@@ -19,5 +19,3 @@ window.addEventListener('scroll', function() {
         gsap.to(quates, {duration: 4, text: '"Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut tenetur obcaecati iusto repellat."'})
     }
 });
-
-
