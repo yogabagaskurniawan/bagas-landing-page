@@ -1,5 +1,13 @@
 
+// mengurus bottom navbar
 
+// const Menutogle = document.querySelector('.menu-toggle input')
+// const navMarkup = document.querySelector('.navbar-nav')
+
+
+// Menutogle.addEventListener('click', function () {
+//     navMarkup.classList.toggle('slide');
+// })
 
 
 
